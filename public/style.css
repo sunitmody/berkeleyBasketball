@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(241, 234, 234);
+}
+
+#title {
+  background-color: lightgreen;
+}
+
+#description {
+  background-color: rgb(212, 198, 179);
+}
+
+#search {
+  background-color: rgb(159, 206, 224);
+}
+
+#fullList {
+  background-color: rgb(233, 231, 204);
+}
+
+#newLocation {
+  background-color: rgb(159, 224, 224);
+}

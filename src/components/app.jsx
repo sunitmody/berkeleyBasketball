@@ -3,6 +3,8 @@ import Search from './search.jsx';
 import FullList from './fullList.jsx';
 import Description from './description.jsx';
 import Title from './title.jsx';
+import NewLocation from './newLocation.jsx';
+
 
 const App = () => {
   return (
@@ -11,6 +13,7 @@ const App = () => {
       <Description />
       <Search />
       <FullList />
+      <NewLocation />
     </React.Fragment>
   )
 }
