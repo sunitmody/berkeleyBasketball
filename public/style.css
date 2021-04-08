@@ -21,3 +21,8 @@ body {
 #newLocation {
   background-color: rgb(159, 224, 224);
 }
+
+#image {
+  border-radius: 50%;
+  width: 20%;
+}
