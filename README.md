@@ -14,7 +14,7 @@
 
 ## Table of Contents
 1. [Getting Started](#getting)
-2.
+2. [Database Setup](#database)
 
 <a name="getting">
 
@@ -33,3 +33,9 @@ Start the express server
 ```
 npm start
 ```
+
+<a name="database">
+
+## Database Setup
+![schema](/readMeImages/schema.png)
+![]
