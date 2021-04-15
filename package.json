@@ -29,6 +29,7 @@
     "webpack-cli": "^4.6.0"
   },
   "dependencies": {
+    "aws-sdk": "^2.888.0",
     "axios": "^0.21.1",
     "compression": "^1.7.4",
     "express": "^4.17.1",
