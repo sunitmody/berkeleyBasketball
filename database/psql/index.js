@@ -23,7 +23,7 @@ const Image = sequelize.define('Image', {
 
 // Create Park Model
 const Park = sequelize.define('Park', {
-  imgUrl: {
+  parkName: {
     type: DataTypes.STRING,
     allowNull: false
   }
